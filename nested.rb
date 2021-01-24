@@ -83,7 +83,7 @@ def adding_matz
         :languages => ["C"]
       },
       :yukihiro_matsumoto => {
-        :
+        :known_for => 
       }
     }
 
